@@ -1,2 +1,2 @@
 # Python-IFCE
-Lista de Python.
+Lista de Python do IFCE.
